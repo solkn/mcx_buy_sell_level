@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811088539127",
+    "firebase_url": "https://mcx-buy-sell-level.firebaseio.com",
+    "project_id": "mcx-buy-sell-level",
+    "storage_bucket": "mcx-buy-sell-level.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811088539127:android:aa2fe5db12f77497",
+        "android_client_info": {
+          "package_name": "com.mcxsuregain.mcxbslevels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811088539127-1sn4u9q06p32tgkvcq2g7q51ss94r63i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUH-pTrN8gFswk0A7IZ_WmlR-UuGj9Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811088539127-1sn4u9q06p32tgkvcq2g7q51ss94r63i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

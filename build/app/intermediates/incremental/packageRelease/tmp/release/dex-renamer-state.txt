@@ -1,0 +1,4 @@
+#Thu Apr 21 14:45:42 EAT 2022
+base.0=/home/sol/github.com/mcx_buy_sell_level/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

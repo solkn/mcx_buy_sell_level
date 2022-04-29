@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">811088539127-1sn4u9q06p32tgkvcq2g7q51ss94r63i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mcx-buy-sell-level.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">811088539127</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEUH-pTrN8gFswk0A7IZ_WmlR-UuGj9Xw</string>
+    <string name="google_app_id" translatable="false">1:811088539127:android:aa2fe5db12f77497</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEUH-pTrN8gFswk0A7IZ_WmlR-UuGj9Xw</string>
+    <string name="google_storage_bucket" translatable="false">mcx-buy-sell-level.appspot.com</string>
+    <string name="project_id" translatable="false">mcx-buy-sell-level</string>
+</resources>
